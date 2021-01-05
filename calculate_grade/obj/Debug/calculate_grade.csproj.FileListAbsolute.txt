@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\bin\Debug\calculate_grade.exe.config
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\bin\Debug\calculate_grade.exe
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\bin\Debug\calculate_grade.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.โปรแกรมคำนวณเกรด.resources
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.exe
+C:\Users\Rachanon\source\repos\GenRetangle\calculate_grade\obj\Debug\calculate_grade.pdb

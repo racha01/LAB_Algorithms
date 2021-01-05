@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\obj\Debug\GenRetangle.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\obj\Debug\GenRetangle.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\bin\Debug\GenRetangle.exe.config
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\bin\Debug\GenRetangle.exe
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\bin\Debug\GenRetangle.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\obj\Debug\GenRetangle.exe
+C:\Users\Rachanon\source\repos\GenRetangle\GenRetangle\obj\Debug\GenRetangle.pdb

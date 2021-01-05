@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\bin\Debug\testloop.exe.config
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\bin\Debug\testloop.exe
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\bin\Debug\testloop.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\obj\Debug\testloop.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\obj\Debug\testloop.exe
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\obj\Debug\testloop.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\testloop\obj\Debug\testloop.csprojAssemblyReference.cache
