@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\bin\Debug\MulticationApp.exe.config
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\bin\Debug\MulticationApp.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\bin\Debug\MulticationApp.pdb
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.Form1.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\MulticationApp\obj\Debug\MulticationApp.pdb

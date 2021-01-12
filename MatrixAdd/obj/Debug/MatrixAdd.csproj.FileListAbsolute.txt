@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\bin\Debug\MatrixAdd.exe.config
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\bin\Debug\MatrixAdd.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\bin\Debug\MatrixAdd.pdb
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.Form1.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\MatrixAdd\obj\Debug\MatrixAdd.pdb

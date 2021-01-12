@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\bin\Debug\ModulaCheker.exe.config
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\bin\Debug\ModulaCheker.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\bin\Debug\ModulaCheker.pdb
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.Form1.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\ModulaCheker\obj\Debug\ModulaCheker.pdb

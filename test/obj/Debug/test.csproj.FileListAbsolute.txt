@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\ModulaCheker\test\bin\Debug\test.exe.config
+C:\Users\Rachanon\source\repos\ModulaCheker\test\bin\Debug\test.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\test\bin\Debug\test.pdb
+C:\Users\Rachanon\source\repos\ModulaCheker\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ModulaCheker\test\obj\Debug\test.exe
+C:\Users\Rachanon\source\repos\ModulaCheker\test\obj\Debug\test.pdb

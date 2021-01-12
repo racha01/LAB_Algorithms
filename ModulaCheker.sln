@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModulaCheker", "ModulaCheker\ModulaCheker.csproj", "{DD9E5203-8704-4CAB-85DD-8132E5C3914A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{04ECC054-5A5F-4313-9937-E2561CD6C115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticationApp", "MulticationApp\MulticationApp.csproj", "{C4A5F647-7668-4574-B647-6E8A2F6BE00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAdd", "MatrixAdd\MatrixAdd.csproj", "{949F709C-DA11-4C6F-8615-F92C85B1C04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9E5203-8704-4CAB-85DD-8132E5C3914A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E5203-8704-4CAB-85DD-8132E5C3914A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9E5203-8704-4CAB-85DD-8132E5C3914A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9E5203-8704-4CAB-85DD-8132E5C3914A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ECC054-5A5F-4313-9937-E2561CD6C115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ECC054-5A5F-4313-9937-E2561CD6C115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ECC054-5A5F-4313-9937-E2561CD6C115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ECC054-5A5F-4313-9937-E2561CD6C115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A5F647-7668-4574-B647-6E8A2F6BE00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A5F647-7668-4574-B647-6E8A2F6BE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A5F647-7668-4574-B647-6E8A2F6BE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A5F647-7668-4574-B647-6E8A2F6BE00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949F709C-DA11-4C6F-8615-F92C85B1C04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F709C-DA11-4C6F-8615-F92C85B1C04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F709C-DA11-4C6F-8615-F92C85B1C04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F709C-DA11-4C6F-8615-F92C85B1C04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD265175-9BFE-4E65-812A-275EF5885A71}
+	EndGlobalSection
+EndGlobal
